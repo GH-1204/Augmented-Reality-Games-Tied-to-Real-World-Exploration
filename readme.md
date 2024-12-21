@@ -5,6 +5,8 @@ This project combines the excitement of augmented reality (AR) and blockchain te
 
 ## Contract Address
 0xb835F31D86Da33F330B5FeeD76e7A6Dcb9ecE779
+<img width="1183" alt="Screenshot 2024-12-21 at 14 30 27" src="https://github.com/user-attachments/assets/a622fbca-a6da-45c6-b5b3-8448d4bf4d8b" />
+
 
 ## Project Vision
 The vision of this project is to bridge the gap between the virtual and physical worlds. By blending AR and blockchain, we aim to foster a community-driven gaming experience that promotes outdoor exploration, fitness, and decentralized ownership of in-game rewards. This is the future of immersive gaming with a tangible impact on the real world.
